@@ -1,6 +1,6 @@
 ## Herzlich Wilkommen zu KrsnaLoka
 
-![](https://github.com/krsnaloka/krsnaloka.github.io/raw/main/radha-krishna-hd-wallpapers-1080p-953x1024.jpg | width=100)
+<img src="radha-krishna-hd-wallpapers-1080p-953x1024.jpg" width="300" />
 
 
 ## Welcome to GitHub Pages
