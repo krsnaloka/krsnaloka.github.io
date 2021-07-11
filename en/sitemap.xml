@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://krsnaloka.github.io/en/</loc>
     <lastmod>2021-07-11T15:35:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/"
+                href="https://krsnaloka.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://krsnaloka.github.io/en/"
                 />
   </url><url>
-    <loc>http://example.org/en/posts/gurvastakam/</loc>
+    <loc>https://krsnaloka.github.io/en/posts/gurvastakam/</loc>
     <lastmod>2021-07-09T21:30:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/posts/gurvastakam/"
+                href="https://krsnaloka.github.io/posts/gurvastakam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/gurvastakam/"
+                href="https://krsnaloka.github.io/en/posts/gurvastakam/"
                 />
   </url><url>
-    <loc>http://example.org/en/posts/</loc>
+    <loc>https://krsnaloka.github.io/en/posts/</loc>
     <lastmod>2021-07-09T21:16:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/posts/"
+                href="https://krsnaloka.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="https://krsnaloka.github.io/en/posts/"
                 />
   </url><url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://krsnaloka.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/tags/"
+                href="https://krsnaloka.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://krsnaloka.github.io/en/tags/"
                 />
   </url>
 </urlset>

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://example.org/en/sitemap.xml</loc>
+    <loc>https://krsnaloka.github.io/en/sitemap.xml</loc>
     
       <lastmod>2021-07-09T21:30:41+02:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://example.org/de/sitemap.xml</loc>
+    <loc>https://krsnaloka.github.io/de/sitemap.xml</loc>
     
       <lastmod>2021-07-09T21:30:41+02:00</lastmod>
     
