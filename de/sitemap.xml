@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://krsnaloka.github.io/gallerys/brief/</loc>
+    <lastmod>2021-07-13T17:09:55+02:00</lastmod>
+  </url><url>
     <loc>https://krsnaloka.github.io/tags/krishna-chaitanya/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,6 +282,45 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://krsnaloka.github.io/bhakta/japa/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/bhakta/govinda/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/bhakta/govinda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/bhakta/govinda/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/bhakta/gurupuja/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/bhakta/gurupuja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/bhakta/gurupuja/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/bhakta/prasadasevaya/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/bhakta/prasadasevaya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/bhakta/prasadasevaya/"
                 />
   </url>
 </urlset>
