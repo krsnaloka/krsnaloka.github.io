@@ -5,58 +5,6 @@
     <loc>https://krsnaloka.github.io/gallerys/brief/</loc>
     <lastmod>2021-07-13T17:09:55+02:00</lastmod>
   </url><url>
-    <loc>https://krsnaloka.github.io/tags/krishna-chaitanya/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://krsnaloka.github.io/en/tags/krishna-chaitanya/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://krsnaloka.github.io/tags/krishna-chaitanya/"
-                />
-  </url><url>
-    <loc>https://krsnaloka.github.io/tags/panca-tattva/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://krsnaloka.github.io/en/tags/panca-tattva/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://krsnaloka.github.io/tags/panca-tattva/"
-                />
-  </url><url>
-    <loc>https://krsnaloka.github.io/bhakta/ptmm/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://krsnaloka.github.io/en/bhakta/ptmm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://krsnaloka.github.io/bhakta/ptmm/"
-                />
-  </url><url>
-    <loc>https://krsnaloka.github.io/tags/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://krsnaloka.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://krsnaloka.github.io/tags/"
-                />
-  </url><url>
     <loc>https://krsnaloka.github.io/</loc>
     <lastmod>2021-07-11T15:35:49+02:00</lastmod>
     <xhtml:link
@@ -161,6 +109,19 @@
                 href="https://krsnaloka.github.io/bhakta/sppranati/"
                 />
   </url><url>
+    <loc>https://krsnaloka.github.io/tags/</loc>
+    <lastmod>2021-07-09T21:30:41+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/tags/"
+                />
+  </url><url>
     <loc>https://krsnaloka.github.io/bhakta/</loc>
     <lastmod>2021-07-09T21:16:51+02:00</lastmod>
     <xhtml:link
@@ -172,6 +133,45 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://krsnaloka.github.io/bhakta/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/tags/krishna-chaitanya/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/tags/krishna-chaitanya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/tags/krishna-chaitanya/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/tags/panca-tattva/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/tags/panca-tattva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/tags/panca-tattva/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/bhakta/ptmm/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/bhakta/ptmm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/bhakta/ptmm/"
                 />
   </url><url>
     <loc>https://krsnaloka.github.io/tags/bilder/</loc>
