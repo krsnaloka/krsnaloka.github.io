@@ -319,5 +319,31 @@
                 hreflang="en"
                 href="https://krsnaloka.github.io/en/bhakta/prasadasevaya/"
                 />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/mantras/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/mantras/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/mantras/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/mantras/nrisimha/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/mantras/nrisimha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/mantras/nrisimha/"
+                />
   </url>
 </urlset>
