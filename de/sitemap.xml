@@ -323,6 +323,19 @@
                 href="https://krsnaloka.github.io/bhakta/prasadasevaya/"
                 />
   </url><url>
+    <loc>https://krsnaloka.github.io/mantras/gayatri-mantra/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/mantras/gayatri-mantra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/mantras/gayatri-mantra/"
+                />
+  </url><url>
     <loc>https://krsnaloka.github.io/mantras/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -336,6 +349,19 @@
                 href="https://krsnaloka.github.io/mantras/"
                 />
   </url><url>
+    <loc>https://krsnaloka.github.io/mantras/narasimha_gayatri/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/mantras/narasimha_gayatri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/mantras/narasimha_gayatri/"
+                />
+  </url><url>
     <loc>https://krsnaloka.github.io/mantras/nrisimha/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -347,6 +373,71 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://krsnaloka.github.io/mantras/nrisimha/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/isanukatha/krsna_names/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/krsna_names/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/krsna_names/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/isanukatha/narasimha_chaturdashi/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/narasimha_chaturdashi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/narasimha_chaturdashi/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/isanukatha/paripoornatama/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/paripoornatama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/paripoornatama/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/isanukatha/prahlada/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/prahlada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/prahlada/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/isanukatha/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/"
                 />
   </url>
 </urlset>

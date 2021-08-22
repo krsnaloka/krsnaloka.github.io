@@ -320,6 +320,19 @@
                 href="https://krsnaloka.github.io/en/bhakta/prasadasevaya/"
                 />
   </url><url>
+    <loc>https://krsnaloka.github.io/en/mantras/gayatri-mantra/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/mantras/gayatri-mantra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/mantras/gayatri-mantra/"
+                />
+  </url><url>
     <loc>https://krsnaloka.github.io/en/mantras/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -333,6 +346,19 @@
                 href="https://krsnaloka.github.io/en/mantras/"
                 />
   </url><url>
+    <loc>https://krsnaloka.github.io/en/mantras/narasimha_gayatri/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/mantras/narasimha_gayatri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/mantras/narasimha_gayatri/"
+                />
+  </url><url>
     <loc>https://krsnaloka.github.io/en/mantras/nrisimha/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -344,6 +370,74 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://krsnaloka.github.io/en/mantras/nrisimha/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/isanukatha/krsna_names/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/krsna_names/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/krsna_names/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/mantras/krsna_names/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/isanukatha/narasimha_chaturdashi/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/narasimha_chaturdashi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/narasimha_chaturdashi/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/isanukatha/paripoornatama/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/paripoornatama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/paripoornatama/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/isanukatha/prahlada/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/prahlada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/prahlada/"
+                />
+  </url><url>
+    <loc>https://krsnaloka.github.io/en/isanukatha/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://krsnaloka.github.io/isanukatha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://krsnaloka.github.io/en/isanukatha/"
                 />
   </url>
 </urlset>
